@@ -1,0 +1,246 @@
+{
+ "cta": {
+  "fr": [
+   "🎧 Écoutez « {T} » sur Spotify : {TR}",
+   "➕ Suivez Xandine sur Spotify pour recevoir chaque nouvelle chanson dès sa sortie : {AR}"
+  ],
+  "en": [
+   "🎧 Listen to “{T}” on Spotify: {TR}",
+   "➕ Follow Xandine on Spotify to get every new song the day it comes out: {AR}"
+  ],
+  "ar": [
+   "🎧 استمعوا إلى «{T}» على Spotify: {TR}",
+   "➕ تابعوا Xandine على Spotify لتصلكم كل أغنية جديدة فور صدورها: {AR}"
+  ],
+  "az": [
+   "🎧 «{T}» mahnısını Spotify-da dinləyin: {TR}",
+   "➕ Hər yeni mahnını çıxdığı gün dinləmək üçün Xandine-i Spotify-da izləyin: {AR}"
+  ],
+  "be": [
+   "🎧 Слухайце «{T}» у Spotify: {TR}",
+   "➕ Падпісвайцеся на Xandine у Spotify, каб атрымліваць кожную новую песню ў дзень выхаду: {AR}"
+  ],
+  "bg": [
+   "🎧 Слушайте „{T}“ в Spotify: {TR}",
+   "➕ Последвайте Xandine в Spotify, за да получавате всяка нова песен още в деня на излизането ѝ: {AR}"
+  ],
+  "br": [
+   "🎧 Selaouit « {T} » war Spotify : {TR}",
+   "➕ Heuliit Xandine war Spotify evit klevet pep kanaouenn nevez kerkent ha ma vo embannet : {AR}"
+  ],
+  "ca": [
+   "🎧 Escolta «{T}» a Spotify: {TR}",
+   "➕ Segueix Xandine a Spotify per rebre cada cançó nova el mateix dia que surt: {AR}"
+  ],
+  "co": [
+   "🎧 Ascultate « {T} » nant’à Spotify : {TR}",
+   "➕ Seguitate à Xandine nant’à Spotify per riceve ogni canzona nova u ghjornu ch’ella esce : {AR}"
+  ],
+  "cy": [
+   "🎧 Gwrandewch ar “{T}” ar Spotify: {TR}",
+   "➕ Dilynwch Xandine ar Spotify i gael pob cân newydd ar y diwrnod y daw allan: {AR}"
+  ],
+  "da": [
+   "🎧 Lyt til »{T}« på Spotify: {TR}",
+   "➕ Følg Xandine på Spotify, og få hver ny sang samme dag, som den udkommer: {AR}"
+  ],
+  "de": [
+   "🎧 Hör „{T}“ auf Spotify: {TR}",
+   "➕ Folge Xandine auf Spotify, um jeden neuen Song gleich am Erscheinungstag zu bekommen: {AR}"
+  ],
+  "el": [
+   "🎧 Ακούστε το «{T}» στο Spotify: {TR}",
+   "➕ Ακολουθήστε τον Xandine στο Spotify για να λαμβάνετε κάθε νέο τραγούδι τη μέρα που κυκλοφορεί: {AR}"
+  ],
+  "es": [
+   "🎧 Escucha «{T}» en Spotify: {TR}",
+   "➕ Sigue a Xandine en Spotify para recibir cada nueva canción el mismo día de su estreno: {AR}"
+  ],
+  "eu": [
+   "🎧 Entzun «{T}» Spotifyn: {TR}",
+   "➕ Jarraitu Xandine Spotifyn, abesti berri bakoitza argitaratzen den egunean bertan jasotzeko: {AR}"
+  ],
+  "fa": [
+   "🎧 «{T}» را در Spotify گوش دهید: {TR}",
+   "➕ Xandine را در Spotify دنبال کنید تا هر آهنگ تازه را همان روز انتشار بشنوید: {AR}"
+  ],
+  "ga": [
+   "🎧 Éist le “{T}” ar Spotify: {TR}",
+   "➕ Lean Xandine ar Spotify chun gach amhrán nua a fháil an lá a eisítear é: {AR}"
+  ],
+  "gd": [
+   "🎧 Èist ri “{T}” air Spotify: {TR}",
+   "➕ Lean Xandine air Spotify gus gach òran ùr fhaighinn air an latha a thig e a-mach: {AR}"
+  ],
+  "gl": [
+   "🎧 Escoita «{T}» en Spotify: {TR}",
+   "➕ Segue a Xandine en Spotify para recibir cada nova canción o mesmo día en que saia: {AR}"
+  ],
+  "hi": [
+   "🎧 “{T}” Spotify पर सुनें: {TR}",
+   "➕ हर नया गाना रिलीज़ के दिन ही पाने के लिए Spotify पर Xandine को फ़ॉलो करें: {AR}"
+  ],
+  "hr": [
+   "🎧 Poslušajte „{T}“ na Spotifyju: {TR}",
+   "➕ Pratite izvođača Xandine na Spotifyju i primajte svaku novu pjesmu na dan objave: {AR}"
+  ],
+  "hu": [
+   "🎧 Hallgasd meg a Spotify-on: „{T}” – {TR}",
+   "➕ Kövesd Xandine-t a Spotify-on, és minden új dal a megjelenése napján megérkezik hozzád: {AR}"
+  ],
+  "hy": [
+   "🎧 Լսեք «{T}» երգը Spotify-ում՝ {TR}",
+   "➕ Հետևեք Xandine-ին Spotify-ում, որպեսզի յուրաքանչյուր նոր երգ ստանաք թողարկման օրը՝ {AR}"
+  ],
+  "id": [
+   "🎧 Dengarkan “{T}” di Spotify: {TR}",
+   "➕ Ikuti Xandine di Spotify agar setiap lagu baru langsung kamu dengar di hari rilisnya: {AR}"
+  ],
+  "it": [
+   "🎧 Ascolta «{T}» su Spotify: {TR}",
+   "➕ Segui Xandine su Spotify per ricevere ogni nuova canzone il giorno stesso dell’uscita: {AR}"
+  ],
+  "iw": [
+   "🎧 האזינו ל„{T}” ב-Spotify: {TR}",
+   "➕ עקבו אחרי Xandine ב-Spotify כדי לקבל כל שיר חדש ביום צאתו: {AR}"
+  ],
+  "ja": [
+   "🎧 Spotifyで「{T}」を聴く：{TR}",
+   "➕ Spotifyで Xandine をフォローして、新曲をリリース当日にお聴きください：{AR}"
+  ],
+  "ka": [
+   "🎧 მოუსმინეთ „{T}“-ს Spotify-ზე: {TR}",
+   "➕ გამოიწერეთ Xandine Spotify-ზე, რომ ყოველი ახალი სიმღერა გამოსვლის დღესვე მოისმინოთ: {AR}"
+  ],
+  "ko": [
+   "🎧 Spotify에서 “{T}” 듣기: {TR}",
+   "➕ Spotify에서 Xandine을 팔로우하고 새 노래를 발매 당일 바로 만나 보세요: {AR}"
+  ],
+  "lt": [
+   "🎧 Klausykitės „{T}“ per Spotify: {TR}",
+   "➕ Sekite Xandine per Spotify ir gaukite kiekvieną naują dainą jau jos pasirodymo dieną: {AR}"
+  ],
+  "lv": [
+   "🎧 Klausieties „{T}“ Spotify: {TR}",
+   "➕ Sekojiet Xandine Spotify, lai katru jauno dziesmu saņemtu jau iznākšanas dienā: {AR}"
+  ],
+  "my": [
+   "🎧 “{T}” ကို Spotify တွင် နားထောင်ပါ- {TR}",
+   "➕ သီချင်းအသစ်တိုင်းကို ထွက်ရှိသည့်နေ့မှာပင် နားထောင်နိုင်ရန် Spotify တွင် Xandine ကို Follow လုပ်ပါ- {AR}"
+  ],
+  "nl": [
+   "🎧 Luister naar “{T}” op Spotify: {TR}",
+   "➕ Volg Xandine op Spotify en krijg elk nieuw nummer meteen op de dag van verschijnen: {AR}"
+  ],
+  "no": [
+   "🎧 Lytt til «{T}» på Spotify: {TR}",
+   "➕ Følg Xandine på Spotify for å få hver ny sang samme dag som den slippes: {AR}"
+  ],
+  "oc": [
+   "🎧 Escotatz « {T} » sus Spotify : {TR}",
+   "➕ Seguissètz Xandine sus Spotify per recebre cada cançon novèla lo jorn de sa sortida : {AR}"
+  ],
+  "pl": [
+   "🎧 Posłuchaj „{T}” na Spotify: {TR}",
+   "➕ Obserwuj Xandine na Spotify, aby dostawać każdą nową piosenkę w dniu premiery: {AR}"
+  ],
+  "pt": [
+   "🎧 Ouça «{T}» no Spotify: {TR}",
+   "➕ Siga Xandine no Spotify para receber cada nova música no dia do lançamento: {AR}"
+  ],
+  "ro": [
+   "🎧 Ascultați „{T}” pe Spotify: {TR}",
+   "➕ Urmăriți-l pe Xandine pe Spotify ca să primiți fiecare cântec nou chiar din ziua lansării: {AR}"
+  ],
+  "ru": [
+   "🎧 Слушайте «{T}» в Spotify: {TR}",
+   "➕ Подписывайтесь на Xandine в Spotify, чтобы получать каждую новую песню в день выхода: {AR}"
+  ],
+  "scn": [
+   "🎧 Ascutati «{T}» supra Spotify: {TR}",
+   "➕ Siquiti a Xandine supra Spotify pi aviri ogni canzuna nova lu jornu stissu ca nesci: {AR}"
+  ],
+  "sr": [
+   "🎧 Слушајте „{T}“ на Spotify-ју: {TR}",
+   "➕ Пратите Xandine на Spotify-ју и добијајте сваку нову песму на дан објаве: {AR}"
+  ],
+  "sv": [
+   "🎧 Lyssna på ”{T}” på Spotify: {TR}",
+   "➕ Följ Xandine på Spotify och få varje ny låt samma dag som den släpps: {AR}"
+  ],
+  "th": [
+   "🎧 ฟัง “{T}” บน Spotify: {TR}",
+   "➕ กดติดตาม Xandine บน Spotify เพื่อฟังเพลงใหม่ทุกเพลงตั้งแต่วันที่ปล่อย: {AR}"
+  ],
+  "tr": [
+   "🎧 “{T}” şarkısını Spotify’da dinleyin: {TR}",
+   "➕ Her yeni şarkıyı çıktığı gün dinlemek için Xandine’i Spotify’da takip edin: {AR}"
+  ],
+  "uk": [
+   "🎧 Слухайте «{T}» у Spotify: {TR}",
+   "➕ Підписуйтеся на Xandine у Spotify, щоб отримувати кожну нову пісню в день виходу: {AR}"
+  ],
+  "vi": [
+   "🎧 Nghe “{T}” trên Spotify: {TR}",
+   "➕ Hãy theo dõi Xandine trên Spotify để nghe mọi bài hát mới ngay trong ngày phát hành: {AR}"
+  ],
+  "yi": [
+   "🎧 הערט „{T}“ אויף Spotify: {TR}",
+   "➕ פֿאָלגט Xandine אויף Spotify, כּדי צו הערן יעדן נײַעם ליד גלײַך דעם טאָג ווען ער קומט אַרויס: {AR}"
+  ],
+  "zh": [
+   "🎧 在 Spotify 收听《{T}》：{TR}",
+   "➕ 在 Spotify 关注 Xandine，新歌发布当天即可收听：{AR}"
+  ]
+ },
+ "names": {
+  "ar": "Arabe",
+  "az": "Azerbaïdjanais",
+  "be": "Biélorusse",
+  "bg": "Bulgare",
+  "br": "Breton",
+  "ca": "Catalan",
+  "co": "Corse",
+  "cy": "Gallois",
+  "da": "Danois",
+  "de": "Allemand",
+  "el": "Grec",
+  "en": "Anglais",
+  "es": "Espagnol",
+  "eu": "Basque",
+  "fa": "Persan",
+  "ga": "Irlandais",
+  "gd": "Gaélique écossais",
+  "gl": "Galicien",
+  "hi": "Hindi",
+  "hr": "Croate",
+  "hu": "Hongrois",
+  "hy": "Arménien",
+  "id": "Indonésien",
+  "it": "Italien",
+  "iw": "Hébreu",
+  "ja": "Japonais",
+  "ka": "Géorgien",
+  "ko": "Coréen",
+  "lt": "Lituanien",
+  "lv": "Letton",
+  "my": "Birman",
+  "nl": "Néerlandais",
+  "no": "Norvégien",
+  "oc": "Occitan",
+  "pl": "Polonais",
+  "pt": "Portugais",
+  "ro": "Roumain",
+  "ru": "Russe",
+  "scn": "Sicilien",
+  "sr": "Serbe",
+  "sv": "Suédois",
+  "th": "Thaï",
+  "tr": "Turc",
+  "uk": "Ukrainien",
+  "vi": "Vietnamien",
+  "yi": "Yiddish",
+  "zh": "Chinois",
+  "fr": "Français"
+ }
+}
